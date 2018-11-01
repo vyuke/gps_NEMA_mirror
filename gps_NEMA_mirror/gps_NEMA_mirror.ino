@@ -29,5 +29,23 @@ void loop()
   Serial.println(NEMA_BDGSV);
   Serial.println(NEMA_GNRMC);
   Serial.println(NEMA_GNZDA);
-  delay(1000);
+  delay(550);
+  //  Serial.print(NEMA_GPTXT);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_GNGGA);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_GNGLL);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_GPGSA);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_BDGSA);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_GPGSV);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_BDGSV);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_GNRMC);
+  //  Serial.print("\n");
+  //  Serial.print(NEMA_GNZDA);
+  //  Serial.print("\n");
 }
