@@ -1,2 +1,2 @@
-# gps_NEMA_mirror
-gps_NEMA_mirror
+ME# gps_NMEA_mirror
+gps_NMEA_mirror
